@@ -1,6 +1,6 @@
 appName: frontend
 appImage: gcr.io/google-samples/microservices-demo/frontend
-appVersion: v0.10.1
+appVersion: v0.10.0
 appReplicas: 2
 containerPort: 8080
 containerEnvVars: 
